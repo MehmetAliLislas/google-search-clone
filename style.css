@@ -48,6 +48,16 @@ header a {
   width: 30px;
 }
 
+.app-div:hover {
+  background-color: #3c4043;
+  border-radius: 50%;
+}
+
+.app:hover {
+  background-color: #3c4043;
+  border-radius: 100%;
+}
+
 .login:hover {
   background-color: white;
 }
@@ -174,7 +184,12 @@ footer a:hover {
   text-decoration: underline;
 }
 
+.mid {
+  padding-right: 150px;
+}
+
 .mid img {
   width: 14px;
   height: 14px;
+  margin-right: 5px;
 }
